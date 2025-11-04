@@ -67,69 +67,76 @@ Dedicated and adaptable Full Stack Developer with experience in Java, Python, Re
 
 ## 💼 My Portfolio
 
-<div style="display:flex; flex-wrap:wrap; gap:16px;">
-
-  <!-- ===== Card 1 ===== -->
-  <div style="flex:1 1 360px; display:flex; flex-direction:column; border:1px solid; border-radius:16px; overflow:hidden;">
-    <!-- Screenshot (fixed height for consistent tops) -->
-    <a href="https://your-live-link-1.com" target="_blank" style="display:block;">
-      <img src="https://your-screenshot-1.png" alt="Project 1 screenshot"
-           style="display:block; width:100%; height:220px; object-fit:cover;">
-    </a>
-    <!-- Body -->
-    <div style="display:flex; flex-direction:column; padding:16px; gap:12px; flex:1;">
-      <h3 style="margin:0;">Project 1</h3>
-      <p style="margin:0;">
-        Description 1
-      </p>
-      <!-- Tech chips -->
-      <p style="margin:0;">
-        <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-        <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
-        <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-        <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
-      </p>
-      <!-- Buttons pinned to bottom -->
-      <div style="margin-top:auto;">
+<table>
+  <tr>
+    <!-- ===== Card 1 ===== -->
+    <td width="50%" valign="top" style="padding:8px;">
+      <div style="border:1px solid;border-radius:16px;overflow:hidden;">
+        <!-- Screenshot (fixed height) -->
         <a href="https://your-live-link-1.com" target="_blank">
-          <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
+          <img src="https://your-screenshot-1.png" alt="Project 1 screenshot"
+               style="display:block;width:100%;height:220px;object-fit:cover;object-position:center;">
         </a>
-        <a href="https://github.com/you/project-1" target="_blank">
-          <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
-        </a>
+        <!-- Body (min-height so cards match) -->
+        <div style="padding:16px;min-height:300px;display:flex;flex-direction:column;">
+          <h3 style="margin:0 0 8px 0;">Project 1</h3>
+          <p style="margin:0 0 12px 0;">
+            Description 1
+          </p>
+          <!-- Tech chips -->
+          <p style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px 0;">
+            <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
+            <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
+            <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
+            <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
+          </p>
+          <!-- Buttons pinned to bottom -->
+          <div style="margin-top:auto;">
+            <a href="https://your-live-link-1.com" target="_blank">
+              <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
+            </a>
+            <a href="https://github.com/you/project-1" target="_blank">
+              <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
+            </a>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-
-  <!-- ===== Card 2 ===== -->
-  <div style="flex:1 1 360px; display:flex; flex-direction:column; border:1px solid; border-radius:16px; overflow:hidden;">
-    <a href="https://your-live-link-2.com" target="_blank" style="display:block;">
-      <img src="https://your-screenshot-2.png" alt="Project 2 screenshot"
-           style="display:block; width:100%; height:220px; object-fit:cover;">
-    </a>
-    <div style="display:flex; flex-direction:column; padding:16px; gap:12px; flex:1;">
-      <h3 style="margin:0;">Project 2</h3>
-      <p style="margin:0;">
-        Description 2
-      </p>
-      <!-- Tech chips -->
-      <p style="margin:0;">
-        <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-        <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
-        <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-        <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
-      <div style="margin-top:auto;">
+    </td>
+    <!-- ===== Card 2 ===== -->
+    <td width="50%" valign="top" style="padding:8px;">
+      <div style="border:1px solid;border-radius:16px;overflow:hidden;">
+        <!-- Screenshot (fixed height) -->
         <a href="https://your-live-link-2.com" target="_blank">
-          <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
+          <img src="https://your-screenshot-2.png" alt="Project 2 screenshot"
+               style="display:block;width:100%;height:220px;object-fit:cover;object-position:center;">
         </a>
-        <a href="https://github.com/you/project-2" target="_blank">
-          <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
-        </a>
+        <!-- Body (min-height so cards match) -->
+        <div style="padding:16px;min-height:300px;display:flex;flex-direction:column;">
+          <h3 style="margin:0 0 8px 0;">Project 2</h3>
+          <p style="margin:0 0 12px 0;">
+            Description 2
+          </p>
+          <!-- Tech chips -->
+          <p style="display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px 0;">
+            <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
+            <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
+            <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
+            <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
+          </p>
+          <!-- Buttons pinned to bottom -->
+          <div style="margin-top:auto;">
+            <a href="https://your-live-link-2.com" target="_blank">
+              <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
+            </a>
+            <a href="https://github.com/you/project-2" target="_blank">
+              <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
+            </a>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
