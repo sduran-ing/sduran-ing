@@ -1,8 +1,15 @@
-## 👨🏻‍💻 About Me
+## About Me 👨🏻‍💻
 
-Dedicated and adaptable Full Stack Developer with experience in Java, Python, React, and PostgreSQL for web applications. I bring a unique blend of technical curiosity and professional maturity from my background as an Industrial Engineer with 7 years of experience in process analysis, quality systems, and risk management. I decided to shift my career toward software development driven by my passion for technology and problem-solving.
+Full-Stack Developer with experience improving processes, quality systems, and performance measurement in public institutions. Currently building and maintaining a teacher training platform at Universidad Distrital, working directly with HR to turn their training needs into features, reports, and interfaces non-technical staff can use on their own. Previously automated audit tracking at the Ministry of Culture to save manual monitoring per week, redesigned its operating model, and modeled business processes for a university's enterprise architecture. Brings a process analyst's habit to every application: understand how people really work, then build what makes their job easier.
 
-## 🛠️ My Tech Stack
+## My Portfolio 💼
+
+<a href="https://www.sduran.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
+</a>
+
+
+## My Tech Stack 🛠️
 
 <div align="center">
 
@@ -65,81 +72,7 @@ Dedicated and adaptable Full Stack Developer with experience in Java, Python, Re
 </table>
 </div>
 
-## 💼 My Portfolio
-
-<table align="center"; border>
-  <tr>
-    <!-- ===== Card 1 ===== -->
-    <td width="50%" valign="top" style="padding:8px;">
-      <!-- Screenshot (fixed height) -->
-      <a href="https://your-live-link-1.com" target="_blank">
-        <img src="https://your-screenshot-1.png" alt="Project 1 screenshot"
-             style="display:block;width:100%;height:220px;object-fit:cover;object-position:center;" />
-      </a>
-      <!-- Body (min-height so cards match) -->
-      <div style="min-height:300px;display:flex;flex-direction:column;gap:12px;">
-        <!-- Title -->
-        <h3 style="margin:8px 0 0 0;">Project 1</h3>
-        <!-- Blurb -->
-        <p style="margin:0;">
-          Description 1
-        </p>
-        <!-- Tech chips (shields) -->
-        <p style="margin:0;">
-          <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-          <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
-          <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-          <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
-        </p>
-        <!-- Buttons pinned to bottom -->
-        <div style="margin-top:auto;">
-          <a href="https://your-live-link-1.com" target="_blank">
-            <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
-          </a>
-          <a href="https://github.com/you/project-1" target="_blank">
-            <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
-          </a>
-        </div>
-      </div>
-    </td>
-    <!-- ===== Card 2 ===== -->
-    <td width="50%" valign="top" style="padding:8px;">
-      <!-- Screenshot (fixed height) -->
-      <a href="https://your-live-link-2.com" target="_blank">
-        <img src="https://your-screenshot-2.png" alt="Project 2 screenshot"
-             style="display:block;width:100%;height:220px;object-fit:cover;object-position:center;" />
-      </a>
-      <!-- Body (min-height so cards match) -->
-      <div style="min-height:300px;display:flex;flex-direction:column;gap:12px;">
-        <!-- Title -->
-        <h3 style="margin:8px 0 0 0;">Project 2</h3>
-        <!-- Blurb -->
-        <p style="margin:0;">
-          Description 2
-        </p>
-        <!-- Tech chips (shields) -->
-        <p style="margin:0;">
-          <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-          <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" />
-          <img alt="XXX" src="https://img.shields.io/badge/XXX-20232A?style=for-the-badge&logo=logoColor=61DAFB" />
-          <img alt="XxxX" src="https://img.shields.io/badge/XxxX-%2320232a.svg?logo=logoColor=%2361DAFB" /> 
-        </p>
-        <!-- Buttons pinned to bottom -->
-        <div style="margin-top:auto;">
-          <a href="https://your-live-link-2.com" target="_blank">
-            <img alt="Visit" src="https://img.shields.io/badge/%E2%86%97%20VISIT-0EA5E9?style=for-the-badge" />
-          </a>
-          <a href="https://github.com/you/project-2" target="_blank">
-            <img alt="Source" src="https://img.shields.io/badge/%E2%97%8F%20SOURCE-111827?style=for-the-badge" />
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sduran-ing&show_icons=true&theme=dark" alt="Santiago's GitHub Stats" />
